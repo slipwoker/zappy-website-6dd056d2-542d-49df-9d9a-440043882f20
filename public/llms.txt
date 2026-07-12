@@ -1,0 +1,84 @@
+# עולם הסקושים של אדל ותהל — Generative Engine Optimization Map
+
+> An online store specializing in squishies — soft, squeezable collectible toys that are popular among kids, teens, and collectors. The store is focused on selling these fun, tactile products through an e-commerce platform with a shopping cart and checkout experience.
+
+---
+
+## Pages
+
+### בית
+https://-6dd056d2.zappy5.app
+חנות הסקושים המובילה בישראל! אוסף ענק של צעצועי סחיטה רכים ומפנקים לילדים, נוער ואספנים. חוויית קנייה קלה ומשלוח מהיר. היכנסו עכשיו וגלו את הקסם!
+
+### אודות
+https://-6dd056d2.zappy5.app/about
+הכירו את אדל ותהל, המומחיות שמביאות לכם את הסקושים הכי איכותיים ומפנקים. למה אנחנו אוהבות צעצועים רכים ואיך אנחנו בוחרות כל פריט באהבה. בואו להכיר אותנו!
+
+### גלריה
+https://-6dd056d2.zappy5.app/gallery
+גלריה מפנקת של כל הסקושים הכי חמודים! דפדפו בין עיצובים מתוקים, צבעים מרהיבים וצורות מפתיעות. כל לחיצה היא התחלה של חיוך. בואו לבחור את האהוב עליכם!
+
+### צור קשר
+https://-6dd056d2.zappy5.app/contact
+רוצים להתייעץ, להזמין או סתם להגיד היי? אנחנו כאן לכל שאלה על הסקושים שלנו. מלאו את הטופס ותקבלו מאיתנו יחס אישי ומפנק כמו הסקושים עצמם!
+
+### Products
+https://-6dd056d2.zappy5.app/products
+המוצרים שלנו - עולם הסקושים של אדל ותהל
+
+### Product Detail
+https://-6dd056d2.zappy5.app/product/:slug
+פרטי המוצר - עולם הסקושים של אדל ותהל
+
+### Category
+https://-6dd056d2.zappy5.app/category/:slug
+מוצרים - עולם הסקושים של אדל ותהל
+
+### תודה רבה | עולם הסקושים של אדל ותהל
+https://-6dd056d2.zappy5.app/thank-you
+תודה רבה על פנייתך! קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6dd056d2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6dd056d2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6dd056d2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עולם הסקושים של אדל ותהל
+An online store specializing in squishies — soft, squeezable collectible toys that are popular among kids, teens, and collectors. The store is focused on selling these fun, tactile products through an e-commerce platform with a shopping cart and checkout experience.
+
+## Target Audience
+- אספנים צעירים
+- הורים קונים מתנות
+- בני נוער עוקבי טרנדים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6dd056d2.zappy5.app/sitemap.xml
+- Robots: https://-6dd056d2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6dd056d2.zappy5.app/llms-full.txt
+- Products (JSON): https://-6dd056d2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-6dd056d2.zappy5.app/product-feed.xml
