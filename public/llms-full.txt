@@ -2,13 +2,13 @@
 
 An online store specializing in squishies — soft, squeezable collectible toys that are popular among kids, teens, and collectors. The store is focused on selling these fun, tactile products through an e-commerce platform with a shopping cart and checkout experience.
 
-Source: https://-6dd056d2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את עולם הרכות — עולם הסקושים של אדל ותהל
 
-URL: https://-6dd056d2.zappy5.app
+URL: https://example.com
 Description: חנות הסקושים המובילה בישראל! אוסף ענק של צעצועי סחיטה רכים ומפנקים לילדים, נוער ואספנים. חוויית קנייה קלה ומשלוח מהיר. היכנסו עכשיו וגלו את הקסם!
 
 גלו את עולם הרכות — עולם הסקושים של אדל ותהל
@@ -648,7 +648,7 @@ Description: חנות הסקושים המובילה בישראל! אוסף ענ�
 
 ## הסיפור המתוק מאחורי הסקושים — עולם הסקושים של אדל ותהל
 
-URL: https://-6dd056d2.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את אדל ותהל, המומחיות שמביאות לכם את הסקושים הכי איכותיים ומפנקים. למה אנחנו אוהבות צעצועים רכים ואיך אנחנו בוחרות כל פריט באהבה. בואו להכיר אותנו!
 
 הסיפור המתוק מאחורי הסקושים — עולם הסקושים של אדל ותהל
@@ -941,7 +941,7 @@ Description: הכירו את אדל ותהל, המומחיות שמביאות ל
 
 ## מציצים לעולם הסקושים הצבעוני — עולם הסקושים של אדל ותהל
 
-URL: https://-6dd056d2.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: גלריה מפנקת של כל הסקושים הכי חמודים! דפדפו בין עיצובים מתוקים, צבעים מרהיבים וצורות מפתיעות. כל לחיצה היא התחלה של חיוך. בואו לבחור את האהוב עליכם!
 
 מציצים לעולם הסקושים הצבעוני — עולם הסקושים של אדל ותהל
@@ -1325,7 +1325,7 @@ Description: גלריה מפנקת של כל הסקושים הכי חמודים!
 
 ## שולחים חיבוק רך — צרו קשר — עולם הסקושים של אדל ותהל
 
-URL: https://-6dd056d2.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים להתייעץ, להזמין או סתם להגיד היי? אנחנו כאן לכל שאלה על הסקושים שלנו. מלאו את הטופס ותקבלו מאיתנו יחס אישי ומפנק כמו הסקושים עצמם!
 
 שולחים חיבוק רך — צרו קשר — עולם הסקושים של אדל ותהל
@@ -1695,7 +1695,7 @@ Description: רוצים להתייעץ, להזמין או סתם להגיד הי
 
 ## מוצרים
 
-URL: https://-6dd056d2.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - עולם הסקושים של אדל ותהל
 
 מוצרים - עולם הסקושים של אדל ותהל
@@ -2052,7 +2052,7 @@ Description: המוצרים שלנו - עולם הסקושים של אדל ות�
 
 ## פרטי המוצר
 
-URL: https://-6dd056d2.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - עולם הסקושים של אדל ותהל
 
 פרטי המוצר - עולם הסקושים של אדל ותהל
@@ -2253,7 +2253,7 @@ Description: פרטי המוצר - עולם הסקושים של אדל ותהל
 
 ## מוצרים
 
-URL: https://-6dd056d2.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - עולם הסקושים של אדל ותהל
 
 מוצרים - עולם הסקושים של אדל ותהל
@@ -2478,7 +2478,7 @@ Description: מוצרים - עולם הסקושים של אדל ותהל
 
 ## מדיניות פרטיות
 
-URL: https://-6dd056d2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2746,7 +2746,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-6dd056d2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3023,7 +3023,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-6dd056d2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3319,7 +3319,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה | עולם הסקושים של אדל ותהל
 
-URL: https://-6dd056d2.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך! קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי.
 
 תודה רבה | עולם הסקושים של אדל ותהל
